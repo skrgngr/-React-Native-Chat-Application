@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 
 ---
 
-🔗 **Project Link:** [React Native Chat Application](link)
+
